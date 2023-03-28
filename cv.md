@@ -17,3 +17,23 @@ I have experience working with various web technologies, including HTML5, CSS3, 
 - Methodologies: Agile (Scrum)
 - Version Control: Git
 - Development Tools: VS Code, WebStorm, Webpack, Babel, parcel, docker, npm, Yarn, pnpm
+
+## Code Examples
+ - My game with React and NextJs + nodejs: https://github.com/krovorgen/opg-game-app
+
+## Work Experience
+- Frontend Developer, Infourok 2021 - now
+  - Developed responsive web applications using React and Redux.
+    Collaborated with cross-functional teams to deliver high-quality software products.
+    Implemented best practices in software development and participated in code reviews.
+- Frontend Web Developer, Statrix.ru - Частичная занятость
+
+## Education
+- OTUS Javascript Developer
+- It-incubator (Frontend)
+- It-incubator (Backend)
+- Yandex Practicum 
+
+## Languages
+- English B1
+- Turkey A2
